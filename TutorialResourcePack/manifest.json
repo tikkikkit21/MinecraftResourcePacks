@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Following Microsoft's tutorial on a dirt resource pack",
+        "name": "Tutorial Resource Pack",
+        "uuid": "846c76a5-b637-4696-a6dc-39f15dca5785",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "My First Add-On!",
+            "type": "resources",
+            "uuid": "bdee2755-0561-4ba3-8634-5aa0bc44fce4",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
