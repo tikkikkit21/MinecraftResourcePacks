@@ -1,0 +1,12 @@
+{
+    "format_version": [
+        1,
+        0,
+        0
+    ],
+    "glow_frame": {
+        "sound": "itemframe",
+        "textures": "glow_item_frame",
+        "blockshape": "invisible"
+    }
+}
